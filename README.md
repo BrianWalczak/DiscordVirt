@@ -31,4 +31,4 @@ Step 4: Open Terminal, and run "sh" followed by the pathname (your clipboard) in
 Step 5: Relaunch Discord, go to the video and audo settings, and set your virtual camera!
 
 
-##Congratulations!
+### Congratulations!
